@@ -1,0 +1,1 @@
+This lab focused on controlling multiple seven-segment displays on the Basys 3 FPGA using multiplexing and the persistence of vision effect. A clock divider, counter, decoder, and multiplexer were implemented in VHDL, simulated for verification, and tested on hardware to display multiple digits simultaneously.
