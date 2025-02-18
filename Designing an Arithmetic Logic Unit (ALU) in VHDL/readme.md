@@ -1,0 +1,1 @@
+This lab involved designing and implementing an Arithmetic Logic Unit (ALU) with eight operations, including arithmetic, bitwise, and shift functions. The ALU was built modularly in VHDL, simulated for verification, and deployed on an FPGA with outputs displayed through LEDs.
