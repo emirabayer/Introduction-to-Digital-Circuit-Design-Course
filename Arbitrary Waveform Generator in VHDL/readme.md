@@ -1,0 +1,1 @@
+This lab involved designing a digital waveform generator in VHDL using the Clocking Wizard IP to produce precise timing signals. A testbench was created to verify waveform accuracy through simulation, and the output was measured on an oscilloscope to ensure correct frequency and timing behavior.
