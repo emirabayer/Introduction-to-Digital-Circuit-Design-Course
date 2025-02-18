@@ -1,0 +1,1 @@
+This lab focused on identifying and correcting errors in a given VHDL design, simulating its behavior using a testbench, and implementing it on the BASYS3 FPGA. The process involved waveform analysis, RTL inspection, and verifying the circuit's functionality through hardware testing.
