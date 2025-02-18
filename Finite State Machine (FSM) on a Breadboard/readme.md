@@ -1,0 +1,1 @@
+This lab focused on designing and implementing a Finite State Machine (FSM) using logic gates on a breadboard. The state transition diagram, tables, and logic expressions were derived, and the circuit was built using buttons for inputs and LEDs/oscilloscope for output verification.
