@@ -1,0 +1,1 @@
+This lab focused on building a combinational logic circuit using logic gates and a 74HC163 counter on a breadboard. The circuit was tested using an oscilloscope and LEDs to verify correct truth table implementation, ensuring proper signal propagation and debugging as needed.
